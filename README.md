@@ -19,7 +19,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/openssl-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/openssl-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/openssl-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/openssl-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/openssl-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/openssl-feedstock/branch/master)
-[![linux-aarch64](https://img.shields.io/shippable/5731959/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/openssl-feedstock)
+[![linux-aarch64](https://img.shields.io/shippable/5c30f31cd1578b0700300ce8/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/openssl-feedstock)
 
 Current release info
 ====================
